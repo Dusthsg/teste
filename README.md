@@ -4,6 +4,5 @@ Cada pessoa do time adiciona uma linha abaixo com seu nome e o link do perfil do
 
 <!-- Adicione sua linha abaixo desta, seguindo o mesmo formato -->
 
-| Foto | Nome | GitHub |
-|---|---|---|
-| <img src="https://github.com/Dusthsg.png" width="60" style="border-radius: 50%;" alt="Dusthsg profile picture"> | Ryan Ramos | [@Dusthsg](https://github.com/Dusthsg) |
+
+<img src="https://github.com/Dusthsg.png" width="60" style="border-radius: 50%;" alt="Dusthsg profile picture">  Ryan Ramos [@Dusthsg](https://github.com/Dusthsg) 
